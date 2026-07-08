@@ -31,8 +31,14 @@ body {
   padding: 0 24px;
 }
 
-a { color: var(--accent); text-decoration: none; }
-a:hover { color: var(--accent-hover); }
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-hover);
+}
 
 /* NAV */
 header {
@@ -65,7 +71,11 @@ header nav {
   border-radius: 6px;
   transition: background 0.2s;
 }
-.btn-nav:hover { background: var(--accent); color: #fff; }
+
+.btn-nav:hover {
+  background: var(--accent);
+  color: #fff;
+}
 
 /* HERO */
 .hero {
@@ -101,6 +111,7 @@ header nav {
   font-weight: 600;
   transition: background 0.2s, transform 0.15s;
 }
+
 .btn-primary:hover {
   background: var(--accent-hover);
   color: #fff;
@@ -133,14 +144,27 @@ header nav {
   padding: 28px 24px;
   transition: border-color 0.2s, transform 0.2s;
 }
+
 .card:hover {
   border-color: var(--accent);
   transform: translateY(-3px);
 }
 
-.card-icon { font-size: 2rem; margin-bottom: 14px; }
-.card h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 10px; }
-.card p { color: var(--text-muted); font-size: 0.92rem; }
+.card-icon {
+  font-size: 2rem;
+  margin-bottom: 14px;
+}
+
+.card h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+}
 
 /* WHY */
 .why {
