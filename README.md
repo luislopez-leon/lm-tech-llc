@@ -5,7 +5,7 @@
 > I help small businesses save time and reduce manual work through custom AI integrations, workflow automation, and backend systems — built to fit your budget and your team.
 
 🌐 **Live site:** [luislopez-leon.github.io/lm-tech-llc](https://luislopez-leon.github.io/lm-tech-llc/)
-📧 **Get in touch:** [luis@lmtech.io](mailto:luis@lmtech.io)
+📧 **Get in touch:** [luis.lopez-leon@lmtechservices.com](mailto:luis.lopez-leon@lmtechservices.com)
 
 ---
 
@@ -38,7 +38,7 @@ Custom backend systems and data pipelines built with Python and FastAPI — fast
 
 Book a free 30-minute discovery call. No pitch — just a conversation about your business and where tech can help.
 
-**[→ Let's Talk](mailto:luis@lmtech.io)**
+**[→ Let's Talk](mailto:luis.lopez-leon@lmtechservices.com)**
 
 ---
 
@@ -68,4 +68,4 @@ GitHub Pages auto-deploys on every push to . A CI workflow lints HTML () and CSS
 
 ---
 
-© 2025 L&M Tech LLC
+© 2026 L&M Tech LLC
