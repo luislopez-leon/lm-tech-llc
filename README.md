@@ -58,7 +58,7 @@ Open  in your browser — no server needed.
 GitHub Pages auto-deploys on every push to . A CI workflow lints HTML () and CSS () on each push/PR.
 
 ### Roadmap
-- [ ] Replace  with final business email
+- [x] Set final business email
 - [ ] Update services to match finalized offerings
 - [ ] Add a custom domain (Settings → Pages → Custom domain)
 - [ ] Add a logo / profile photo
